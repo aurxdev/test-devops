@@ -1,0 +1,12 @@
+{
+    "name": "azure-pipelines-test",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo 'Running tests!'"
+    },
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC"
+}
